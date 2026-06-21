@@ -1,9 +1,5 @@
 # 🤖 MONTI_DROID _ Advanced Neural Android Client
-
-[![MONTI Security](https://img.shields.io/badge/MONTI-Secured-red?style=for-the-badge&logo=shield)](https://security.montinode.com)
-[![Neural AI](https://img.shields.io/badge/Neural-AI%20Powered-purple?style=for-the-badge&logo=brain)](https://ai.montinode.com)
-[![Blockchain](https://img.shields.io/badge/Blockchain-Integrated-blue?style=for-the-badge&logo=link)](https://blockchain.montinode.com)
-[![License](https://img.shields.io/badge/License-MONTI%20Proprietary-gold?style=for-the-badge)](https://legal.montinode.com)
+899339257123-kghbk8vu52msjjbv5doearkmjbls7j0m.apps.googleusercontent.com
 
 ## 🧠 Neural_Powered Android Application Repository
 
